@@ -25,7 +25,7 @@ tut.speed("fastest")
 tut.setpos(-290, -240)
 x = tut.xcor()
 y = tut.ycor()
-print(y)
+
 
 
 for dots in range(20):
